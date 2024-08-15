@@ -1,4 +1,4 @@
 Archivo ejemplo README
-Edicion santiago
+E.santiago
 E.Marco
-Edicion nuevo caso conflicto
+_Conflicto1.0_
