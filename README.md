@@ -1,10 +1,10 @@
-#INTEGRANTES
+# INTEGRANTES
 1. Marco Antonio Álvarez
 2. Santiago Guerra Penagos
 
 
-#RESPUESTAS
-##Respuestas PARTE I
+# RESPUESTAS
+## Respuestas PARTE I
 1. El comando git add se utiliza para añadir cambios en los
  archivos a la staging area (área de preparación). La staging
  area es un espacio intermedio donde se almacenan los cambios que
@@ -20,12 +20,12 @@
  historia del proyecto.
  Se usa de la siguiente manera: `git commit -m "mensaje descriptivo"`
 
-##Repuestas PARTE II
+## Repuestas PARTE II
 6. Al hacer el commit y ejecutar el comando `git push` al tiempo
 uno de los push falla por encontrar los cambios que hizo la otra
 persona.
 
-##Respuestas PARTE III
+## Respuestas PARTE III
 1. Existen varias maneras, la mejor es el uso de ramas y mantener 
 la rama propia en la que se está trabajando actualizada con la 
 rama principal(main).
